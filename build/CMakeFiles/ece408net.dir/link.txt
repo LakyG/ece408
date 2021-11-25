@@ -1,0 +1,2 @@
+/usr/bin/ar qc libece408net.a  CMakeFiles/ece408net.dir/ece408net.cc.o
+/usr/bin/ranlib libece408net.a

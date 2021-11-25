@@ -1,0 +1,2 @@
+/usr/bin/ar qc libGpuConv.a  CMakeFiles/GpuConv.dir/layer/custom/GpuConv_generated_gpu-utils.cu.o CMakeFiles/GpuConv.dir/layer/custom/GpuConv_generated_new-forward.cu.o
+/usr/bin/ranlib libGpuConv.a
